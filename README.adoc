@@ -1,0 +1,11 @@
+# Investigate a Soccer Database
+
+The files shows the steps I have taken while investigating a Soccer database.
+
+----
+.
+├── README.adoc
+├── database.sqlite
+├── investigate-a-dataset-template-main.html
+└── investigate-a-dataset-template-main.ipynb
+----
